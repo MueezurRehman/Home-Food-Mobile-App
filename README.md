@@ -47,7 +47,7 @@ Before running this project, make sure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/HomeFoodApp.git
+   git clone https://github.com/MueezurRehman/Home-Food-Mobile-App.git
    cd HomeFoodApp
    ```
 
@@ -231,7 +231,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Mueez ur Rehman** - *Initial work* - [GitHub](https://github.com/MueezurRehman)
 
 ## 🙏 Acknowledgments
 
